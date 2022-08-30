@@ -1,1 +1,1 @@
-My second readme
+My GIT project readme
